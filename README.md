@@ -1,4 +1,3 @@
-theme: cayman
 # Hi, I am reTime ![](/img/student.png).
 
 ### I'm a student of Computer Academy:
