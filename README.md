@@ -1,6 +1,6 @@
 # Hi, I am reTime ![](/img/student.png).
 
-### I'm a qa engeneer:
+### I'm a QA-engeneer:
 + ![](/img/book.png) Working **quality assurance, Java, JavaScript, SQL**.
 + ![](/img/learning.png) Learning **Linux, PostreSQL**. 
 + ![](/img/search.png) Ping me about __QA, Java, JavaScript, SQL__.
